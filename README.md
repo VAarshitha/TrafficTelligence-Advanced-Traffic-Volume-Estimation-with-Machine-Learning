@@ -6,7 +6,7 @@
 | Role        | Name             |
 |-------------|------------------|
 | Team Lead   | S. Varshitha     |
-| Member 01   | M.Guna Sindhu    |
+| Member 01   | M.Guna Sindu    |
 | Member 02   | M.Sahithi        |
 
 
