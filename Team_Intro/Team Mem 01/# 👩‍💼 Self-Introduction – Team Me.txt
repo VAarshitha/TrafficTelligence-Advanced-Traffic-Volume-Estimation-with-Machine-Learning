@@ -1,0 +1,36 @@
+# 👩‍💼 Self-Introduction – Team Member
+
+## 👤 Name:
+
+Mallarapu Guna Sindu
+
+## 🏫 Institution:
+
+Sri Venkateswara College of Engineering, Tirupati – B.Tech, Information Technology
+
+## 🧠 Skills:
+
+* Java, C, Python
+* HTML, CSS, Web Development
+* Artificial Intelligence, Machine Learning
+
+## 🎯 Role in Project:
+
+As a dedicated *Team Member* of the TrafficTelligence project, I was actively involved in the *Project Design and Planning* phase. My contributions included:
+
+* Designing and organizing the system architecture and block diagrams
+* Creating flowcharts to visualize data movement through the ML pipeline
+* Developing a basic wireframe UI layout for the dashboard interface
+* Structuring and formatting documentation clearly for better understanding
+* Collaborating with the team lead to ensure our deliverables met project goals
+
+These tasks were crucial in building a strong foundation for the development and successful implementation of our machine learning-based traffic estimation system.
+
+## 📍 Project Focus:
+
+Our project, TrafficTelligence, aims to build an advanced traffic volume estimation system using machine learning to help city planners make data-driven decisions.
+
+## 🔗 Profiles (Optional):
+
+* LinkedIn: \[https://www.linkedin.com/in/mallarapu-guna-sindu-bb9152281]
+* GitHub: \[https://github.com/GunaSindu]

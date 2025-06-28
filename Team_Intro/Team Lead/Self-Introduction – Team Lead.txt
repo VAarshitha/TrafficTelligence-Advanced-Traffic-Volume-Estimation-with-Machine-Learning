@@ -1,0 +1,38 @@
+ Self-Introduction – Team Lead
+
+Name: S. Varshitha
+Institution: Sri Venkateswara College of Engineering (SVCE)
+Degree: B.Tech – Information Technology
+Current CGPA: 9.76 / 10
+
+Technical & Leadership Skills
+Programming Languages: Python, Java, C
+
+Data & ML Tools: Scikit-learn, NumPy, Pandas, Power BI, Excel, SQL
+
+Development & Workflow: Git & GitHub, Jupyter Notebook, VS Code, Google Colab
+
+Other Tools: LaTeX, Canva, MS Office Suite
+
+Soft Skills: Team Leadership, Communication, Task Management, Documentation
+
+Role in Project – TrafficTelligence
+As the Team Lead for the TrafficTelligence project under the AI & ML Virtual Internship at SmartInternz, I played a key role in both technical development and team coordination. My responsibilities included:
+
+Designing and developing the entire machine learning pipeline: data simulation, feature selection, model building (Random Forest), and evaluation
+
+Ensuring seamless integration of all code components, testing, and visualization of outputs
+
+Structuring and maintaining the GitHub repository and deliverable folders professionally
+
+Coordinating team tasks, managing deadlines, and maintaining quality standards for all documentation and submissions
+
+Supporting team members in design, report writing, and planning tools (architecture diagrams, flowcharts)
+
+Project Brief
+TrafficTelligence is a smart traffic volume prediction system leveraging machine learning to enable data-driven traffic management and urban planning. It uses temporal and environmental features to forecast vehicle load, helping reduce congestion and support smart city initiatives.
+
+🔗 Profiles
+LinkedIn: linkedin.com/in/varshithas821
+GitHub: github.com/VAarshitha
+

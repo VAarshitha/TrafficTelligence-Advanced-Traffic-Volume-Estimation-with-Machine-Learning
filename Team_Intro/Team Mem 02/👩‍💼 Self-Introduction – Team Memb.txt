@@ -1,0 +1,31 @@
+👩‍💼 Self-Introduction – Team Member
+
+👤 Name:
+
+Manchi Reddy Sahithi
+
+🏫 Institution:
+
+Sri Venkateswara College of Engineering, Tirupati – B.Tech, Information Technology
+
+🧠 Skills:
+	•	C, Python
+	•	HTML, CSS, JavaScript
+
+🎯 Role in Project:
+
+As a Team Member of the TrafficTelligence project, I collaborated with my teammates during the Project Planning and Documentation phase. My contributions included:
+	•	Organizing the structure of project deliverables
+	•	Reviewing and refining documentation content
+	•	Supporting the team throughout different stages of development and design
+	•	Assisting in maintaining consistency across all project artifacts
+
+These efforts helped ensure clarity, structure, and teamwork in our machine learning-based traffic estimation system.
+
+📍 Project Focus:
+
+Our project, TrafficTelligence, aims to build an advanced traffic volume estimation system using machine learning to help city planners make data-driven decisions.
+
+🔗 Profiles (Optional):
+	•	LinkedIn: https://www.linkedin.com/in/sahithi-manchi-497151281
+	•	GitHub: https://github.com/sahithi-191m
