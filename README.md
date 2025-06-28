@@ -16,14 +16,14 @@ TrafficTelligence aims to improve urban traffic management by predicting traffic
 
 ## 📁 Folder Structure
 
-- `Assignments/` – Member introductions and roles  
+- `Team_Intro/` – Member introductions and roles  
 - `Project Design & Planning/` – Ideation, designs, planning documents  
 - `Final Deliverables/` – Code, report, video, datasets  
 
 ## ▶️ Demo Video
 
-[Link to YouTube or Google Drive]
+[https://drive.google.com/drive/folders/1ufp0nOaJkvA_ohmRQ2hAYJdRk4vNTzkx?usp=sharing]
 
 ## 📂 Dataset
 
-Mention source or include in `Final Deliverables/` folder
+ included in `Final Deliverables/` folder
